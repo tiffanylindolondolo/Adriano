@@ -26,3 +26,7 @@ function criarCoracoes() {
 }
 
 criarCoracoes();
+
+function tocarMusica(){
+  document.getElementById("musica").play();
+}
